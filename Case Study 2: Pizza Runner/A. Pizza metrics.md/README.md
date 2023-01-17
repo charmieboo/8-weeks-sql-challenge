@@ -1,6 +1,6 @@
-#🍕Case Study 2: Pizza runner - Pizza Metrics
+# 🍕Case Study 2: Pizza runner - Pizza Metrics
 
-##Case Study Questions
+## Case Study Questions
 1. How many pizzas were ordered?
 2. How many unique customer orders were made?
 3. How many successful orders were delivered by each runner?
